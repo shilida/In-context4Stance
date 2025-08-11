@@ -23,8 +23,8 @@ This repository contains the official code and resources for our paper: **"An em
 * `tweet-preprocessor`
 * `pandas`
 * `pydantic`
-* scikit-learn`
-* tqdm`
+* `scikit-learn`
+* `tqdm`
 
 ## Data
 

@@ -19,14 +19,13 @@ This repository contains the official code and resources for our paper: **"An em
 ## Setup
  Install the required Python packages. 
     The main dependencies are:
-    - `langchain`
-    - `langchain-openai`
-    - `tweet-preprocessor`
-    - `pandas`
-    - `pydantic`
-    - `scikit-learn`
-    - `tqdm`
-    - `wandb`
+    * `langchain`
+    * `langchain-openai`
+    * `tweet-preprocessor`
+    * `pandas`
+    * `pydantic`
+    * `scikit-learn`
+    * `tqdm`
 
 ## Data
 
